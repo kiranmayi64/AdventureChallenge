@@ -1,0 +1,10 @@
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\bin\Debug\Advworks.exe.config
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\bin\Debug\Advworks.exe
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\bin\Debug\Advworks.pdb
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.csprojAssemblyReference.cache
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.Form1.resources
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.Properties.Resources.resources
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.csproj.GenerateResource.cache
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.csproj.CoreCompileInputs.cache
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.exe
+C:\Users\vunna\OneDrive\Desktop\Advworks\Advworks\obj\Debug\Advworks.pdb
